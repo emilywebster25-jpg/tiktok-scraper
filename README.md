@@ -63,11 +63,8 @@ tiktok-scraper/
 │   ├── analysis/                # Data analysis scripts
 │   ├── extraction/              # Video processing tools
 │   └── utilities/               # Helper functions
-├── 04_docs/                     # Documentation and guides
-│   ├── SESSION_SUMMARY_AUG3.md  # Detailed project notes
-│   └── ANALYSIS_METHODOLOGY.md  # Analysis approach
 ├── run_pipeline.py              # Main execution script
-└── PROJECT_STATUS.md            # Current project status
+└── README.md                    # Project documentation
 ```
 
 ## Key Features
