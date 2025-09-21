@@ -59,7 +59,7 @@ I needed to analyze fitness content trends on TikTok but manually browsing and t
 
 ```
 tiktok-scraper/
-├── 03_code/                     # Python scripts
+├── code/                        # Python scripts
 │   ├── analysis/                # Data analysis scripts
 │   ├── extraction/              # Video processing tools
 │   └── utilities/               # Helper functions
